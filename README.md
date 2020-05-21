@@ -28,11 +28,9 @@ Copie esse id: formulahendry.code-runner e cole na barra de pesquisa e instale e
 
 ![Mostrando aonde encontrar a extensão](https://i.imgur.com/iChBfRL.png)
 
-Escolha um dos arquivos acima, copie todo o código contido e cole em um arquivo .js
-Apert CTRL + ALT + N para executar o código ou clique com o botão direito do mouse e vá em Run Code.
-
-
-End with an example of getting some data out of the system or using it for a little demo
+Escolha um dos arquivos acima, copie todo o código contido e cole em um arquivo com a extensão (.js). <br/><br/>
+Aperte CTRL + ALT + N para executar o código ou clique com o botão direito do mouse e vá em Run Code.<br/><br/>
+![Demonstralão do código em nodejs](https://i.imgur.com/nIE6fXk.png)
 
 ## Testes
 
