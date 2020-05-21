@@ -7,4 +7,5 @@ function coulombF (q1, q2, d) {
     console.log(`F = ${f.toPrecision(3)}N`)
 }
 
-coulombF(2 * 10 ** -6, 5 * 10 ** -6, 0.2)
+// Copie esse comando para executar a função, e altere apenas os numeros, não mexa nos *.
+coulombF(2 * 10 ** -6, 5 * 10 ** -6, 0.2) // Primeiro valor é o Q1, Segundo valor é o Q2, Terceiro valor é a distância em metros.
